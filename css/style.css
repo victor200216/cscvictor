@@ -1,0 +1,6 @@
+.container {
+      background-color: rgb(238, 144, 144); /* Fondo verde claro */
+      padding: 20px;                /* Espacio interno */
+      border-radius: 10px;          /* Bordes redondeados */
+      border: red;
+    }
