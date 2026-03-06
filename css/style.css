@@ -1,14 +1,23 @@
-.container {
-      background-color: rgb(238, 144, 144); /* Fondo verde claro */
-      padding: 20px;                /* Espacio interno */
-      border-radius: 10px;          /* Bordes redondeados */
-      border: red;
-    }
-    header{
-        background: green ;
-        width: 100%;
+/* body 
+body{
+    background: red;
+}
 
-    }
+ selector class */
+
+.container{
+    width: 80%;
+    border: 2px solid red;
+    padding: 30px;
+    font-size: 20px;
+    text-align: justify;
+    margin: auto;
+}
+
+header{
+    background: green ;
+    width: 100;
+}
     .container main img{
         width: 100%;
         
